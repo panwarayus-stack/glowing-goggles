@@ -1,0 +1,4 @@
+flask
+pytelegrambotapi
+pymongo
+psutil
